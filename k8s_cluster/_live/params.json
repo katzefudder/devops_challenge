@@ -1,0 +1,9 @@
+{
+  "project": "DevOpsChallenge",
+  "location": "germanywestcentral",
+  "environment": "live",
+  "aks_version": "1.29",
+  "vm_size": "Standard_DS2_v2",
+  "node_count": 2,
+  "os_disk_size_gb": 30
+}
